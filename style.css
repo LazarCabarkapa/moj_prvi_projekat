@@ -1,0 +1,144 @@
+body{
+    background: #181733;
+    padding: 0;
+    margin: 0;
+}
+
+.top-nav {
+    background-color: #0a0927;
+    color: white;
+    width: 100%;
+    height: 2.9rem;
+    margin-top: -31px;
+}
+
+.barca{
+    text-align: center;
+    font-size: 25px;
+}
+
+.login { 
+    margin-top:-40px;
+    margin-right:15px;
+    float: right;
+}
+
+.login-div { 
+    border-radius:10px;
+    height: 2rem;
+    width: 4rem;
+    background: linear-gradient(90deg,#cd122d,#154284);
+}
+
+.sign-up { 
+    border-radius:10px;
+    height: 2rem;
+    width: 4rem;
+    background: linear-gradient(90deg,#154284,#cd122d);
+}
+
+.name {
+    text-align: center;
+} 
+                                                /*TOP NAV BAR*/
+/*--------------------------------------------------------------------------------------------------------------*/
+.mid-nav {
+    background-color: #181733   ;
+    color: white;
+    width: 100%;
+    height: 2.9rem;
+    margin-top: -5px;
+    border-top: 1px solid #342D2D;
+}
+
+.button-div button{
+    float: right;
+    margin-right: 160px;
+    padding: 6px;
+    margin-top: 2px;
+    border-radius: 10px;
+    width: 120px;
+    background:linear-gradient(#fdc52c,#cd122d);
+}
+
+.button-div button:hover {
+    background:linear-gradient(#154284,#cd122d);
+}
+                                            /*MID NAV BAR*/
+/*--------------------------------------------------------------------------------------------------------------*/
+.bottom-nav {
+    background-color: #cd122d  ;
+    color: white;
+    width: 100%;
+    height: 1.4rem;
+    margin-top: -5px;
+    background: linear-gradient(180deg,#cd122d 0,#154284);
+} 
+/*--------------------------------------------------------------------------------------------------------------*/
+.grb{
+    margin-top: -90px;
+    width: 93px;
+    height: auto;
+    margin-left: 50px;
+}
+
+.h1-news{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    border: 2px solid white;
+}
+
+.h1-news :hover{
+    background: linear-gradient(180deg,#cd122d 0,#154284);
+}
+
+.news { 
+    background-color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 300px;
+    text-align: left
+}
+
+
+.slika-pedri{
+    margin-top: -300px;
+    width: 100%;
+}
+.pedri-1-2{
+    background: linear-gradient(90deg,#cd122d,#154284);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #fff;
+    font-size: 3.6rem;
+    margin-bottom: 2rem;
+    font-family: fcb-extra-bold,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 40;
+    text-align: center;
+}
+.pedri-1{
+    text-align: center;
+    margin: 90px;
+    margin-top: -60px;
+    border-bottom: 2px solid black;
+}
+
+.pedri-2{
+    margin: 90px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.pedri-3{ 
+    margin: 90px;
+    margin-top: -30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.border{
+    margin: 20px;
+    border: 2px solid black;
+}
